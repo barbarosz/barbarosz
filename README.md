@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I’m Barbaros — a curious, relentless computer science student from Turkiye, currently building my future in the U.S. through code, community, and caffeine. Whether I’m crafting custom data structures in C++, mentoring students as ACM chapter president, or preparing for my next big leap (yes, Google is the goal), I’m always in motion.
+I am Barbaros — a curious, relentless computer science student from Turkiye, currently building my future in the U.S. through code, community, and caffeine. Whether I’m crafting custom data structures in C++, mentoring students as ACM chapter president, or preparing for my next big leap (yes, Google is the goal), I’m always in motion.
 
 You’ll find me deep in debugging sessions one day, and leading a tech workshop or hackathon the next. I thrive at the intersection of engineering and leadership — solving real problems, uplifting peers, and navigating every opportunity with the mindset of someone who’s here to stay, grow, and make an impact.
 
