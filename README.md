@@ -5,8 +5,8 @@ I am a relentless Computer Science student at **Virginia Tech** (class of 2027) 
 Whether I'm containerizing machine learning inference workflows, designing autonomous LLM agent architectures, or leading technical communities, I build for production and scale.
 
 - 🚀 **Current Focus:** Building end-to-end applied AI systems, structured generation pipelines, and agentic workflows.
-- 🎓 **Education:** B.S. in Computer Science @ Virginia Tech (Expected May 2027) | Transferred via City Colleges of Chicago & COD.
-- 💼 **Past Experience:** Data-Driven Product Management Intern @ Google | iOS Engineering Intern @ Manufacturing Renaissance.
+- 🎓 **Education:** B.S. in Computer Science @ Virginia Tech (Expected May 2027)
+- 💼 **Past Experience:** Data-Driven Product Management Intern @ Google | Software Engineering Intern @ Manufacturing Renaissance.
 - 🏛️ **Leadership:** Former President of the Association for Computing Machinery (ACM), Wilbur Wright Chapter.
 
 ---
